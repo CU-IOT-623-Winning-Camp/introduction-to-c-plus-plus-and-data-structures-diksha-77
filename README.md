@@ -63,8 +63,3 @@ python manage.py runserver
 ### Rest API Road List Screenshots 📸:
 
 ![Image 9](.github/road_web_4.png)
-
-### Contributors 🙋‍♂️:
-
-- [Sankalp](https://github.com/codesankalp/)
-- [Aryaman](https://github.com/aryamanz29)
