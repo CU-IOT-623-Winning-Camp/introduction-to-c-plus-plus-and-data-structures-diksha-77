@@ -38,7 +38,7 @@ python manage.py runserver
 5. Django Rest Framework
 6. SQL
 7. Google Maps API
-8. DataSet is provided by GRDDC 2020
+
 
 
 ### Website Dashboard Screenshots 📸:
